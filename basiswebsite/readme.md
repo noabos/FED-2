@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Noa Bos
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -62,23 +62,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
 
+<img src="images/breakdownsheet.png" width="375px" alt="breakdownsheet">
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Blauw
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:**: Surface
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** https://nana-asia.com
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/nana1.PNG" width="375px" alt="home">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/nana2.PNG" width="375px" alt="detail">
