@@ -3,14 +3,86 @@
   box-sizing:border-box;
 }
 
+/* BASICS */
+
+html{
+     max-width:100%;
+}
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
   max-width:100%;
- background-color: #FBFAF4;
+  background-color: #FBFAF4;
 }
 
-/* Navigatie */
+
+    ul {
+         list-style: none;
+         margin: 0;
+         padding: 0;
+    }
+/* Is voor de witte titel in zwarte vlak deze moet wit zijn & onder elkaar*/
+h3{
+    display:inline-block;
+    font-family: 'Oswald', sans-serif;
+    vertical-align: top;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    color: #fff;
+    margin-top: 0,625em;
+    text-decoration: none;
+    font-size: 2em;
+    text-align: left;
+    padding-left: 10px;
+    width:10px;
+}
+
+/* is voor alle roze titels; deze moet roze zijn */
+h2{
+    display:inline-block;
+    font-family: 'Oswald', sans-serif;
+    vertical-align: top;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    color: #FF9F9F;
+    margin-top: 0,625em;
+    text-decoration: none;
+    font-size: 2em;
+    text-align: left;
+    padding-left: 10px;
+    max-width:70%;
+}
+
+/* simpele titel voor het product */
+h6{
+    text-decoration: none;
+    letter-spacing: 0.09em;
+    color: #fff;
+    font-size: 0.9em;
+    position: relative;
+    top:-18px;
+    font-weight: 500;
+
+}
+
+/* simpele onder titel voor het product */
+h5{
+    font-family: 'Times New Roman', sans-serif;
+    text-decoration: none;
+    letter-spacing: 0.09em;
+    color: rgba(255, 255, 255, 0.53);
+    font-size: 1em;
+    position: relative;
+    top:-40px;
+    font-weight: 500;
+
+}
+
+
+
+/* NAVIGATIE */
 
 header{
     background-color: #FBFAF4;
@@ -26,8 +98,8 @@ header{
     left:15%;
     cursor:pointer;
     z-index: 10;
-
 }
+
 
  @media only screen and (max-width: 37.5em) and (max-width: 48em) {
  .logo{
@@ -97,7 +169,17 @@ left:-.8em;
     }
 
 
-/* nav-toggler*/
+.icon{
+    width:30px;
+     display: inline-block;
+  margin: 0 10px;
+    display: flex;
+justify-content: space-evenly;
+}
+
+
+
+/* NAVIGATIE VIERKANTJE*/
 
 .nav-toggler {
   border: 0.1875em solid #FF9F9F;
@@ -149,11 +231,6 @@ left:-.8em;
   left: 10%;
   }
 
-
-/* mobile breakpoint start */
-
-
-  /* navbar css for mobile start */
   .nav-toggler {
     display: block;
     width: 1.25em;
@@ -212,15 +289,13 @@ left:-.8em;
 }
 
 
+/* SEARCH BAR POP UP */
+
     .search{
-        width:1.6em;
+        width:1.2em;
         position: relative;
         z-index: 5;
-
-
     }
-
-/* search bar */
 
 .wrapper{
   position: fixed;
@@ -231,14 +306,17 @@ left:-.8em;
   background:#6355C3;
   clip-path: circle(20px at calc(100% - 45px) 45px);
   transition: all 0.3s ease-in-out;
+  z-index: 2;
+
 
 }
 #active:checked ~ .wrapper{
   clip-path: circle(75%);
 }
 .menu-btn{
+  background-image: ;
   position: absolute;
-  z-index: 2;
+  z-index: 3;
   right: 20px;
   top: 20px;
   height: 50px;
@@ -316,13 +394,12 @@ input[type="checkbox"]{
 }
 
 
-/* banner */
+/* BANNER SLIDER*/
 
 .slideshowContainer {
   position: relative;
   overflow: hidden;
-  width: 100%;
-  height: 250px;
+  height:250px;
 }
 
 .imageSlides {
@@ -330,7 +407,7 @@ input[type="checkbox"]{
   left: 10%;
   top: 10%;
   transform: translate(-50%, -50%);
-
+  width:200%;
   opacity: 0;
   transition: opacity 1s ease-in-out;
   z-index: -1;
@@ -341,8 +418,8 @@ input[type="checkbox"]{
 }
 
 .slideshowArrow {
-  font-size: 7em;
-  color: rgba(255, 255, 255, 0.5);
+  font-size: 4em;
+  color: #061B6A;
   cursor: pointer;
   transition: opacity 0.2s ease-in-out;
 }
@@ -356,6 +433,7 @@ input[type="checkbox"]{
   left: 4%;
   top: 50%;
   transform: translate(-50%, -50%);
+  z-index: 1;
 }
 
 #rightArrow {
@@ -363,7 +441,106 @@ input[type="checkbox"]{
   right: 4%;
   top: 50%;
   transform: translate(50%, -50%);
+    z-index: 1;
 }
+
+
+/*BLOG*/
+
+p:nth-of-type(1) {
+    color: #061B6A;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    font-size: 14px;
+    text-align: center;
+     margin-bottom: 2;
+    margin-top: 2;
+
+}
+p:nth-of-type(3) {
+    color: #A1ACC8;
+    margin-left: auto;
+    margin-right: 70px;
+    width: 8em;
+    font-size: 14px;
+    position: relative;
+    top:-30px;
+    text-align: center;
+     margin-bottom: 2;
+    margin-top: 2;
+}
+
+p:nth-of-type(2) {
+  color: #061B6A;
+    margin-left: 75px;
+    margin-right: auto;
+    width: 8em;
+    font-size: 14px;
+    margin-bottom: 2;
+    margin-top: 2;
+}
+
+h4:nth-of-type(1) {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.4em;
+    color: #061B6A;
+    text-align: center;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+    .blog1{
+     background-color: white;
+
+    }
+
+    .blogpost{
+       max-width: 90%;
+         display: flex;
+
+  align-items: center;
+  justify-content: center;
+        display: block;
+   width: 90%;
+   max-width: 500px;
+   height: auto;
+   margin: auto;
+
+    }
+
+
+/*CAROUSEL WATCH & CURRENT OBSESSIONS*/
+
+ .carousel{
+        background-color: #000000;
+        width:100%
+    }
+
+.content-slider {
+   display: flex;
+   overflow-y: hidden;
+   overflow-x: scroll;
+
+}
+.img-holder{
+  max-width:80%;
+  display: block;
+  position: relative;
+  flex-shrink:0;
+  padding: 4%;
+
+  }
+
+.img-responsive{
+   object-fit: cover;
+   width:100%;
+}
+
+/*FOOTER*/
 
 
 
