@@ -26,82 +26,45 @@ function navLinkClick() {
 
 
 
-// SLIDER BANNER
-var imageSlides = document.getElementsByClassName('imageSlides');
-var circles = document.getElementsByClassName('circle');
-var leftArrow = document.getElementById('leftArrow');
-var rightArrow = document.getElementById('rightArrow');
-var counter = 0;
+// GALLERIJ
 
-function hideImages() {
-  for (var i = 0; i < imageSlides.length; i++) {
-    imageSlides[i].classList.remove('visible');
-  }
+const listItems = document.querySelectorAll('.filteroptie');
+const allImages = document.querySelectorAll('.filter');
+
+function toggleActiveClass(active){
+    listItems.forEach(item => {
+      item.classList.remove('active');
+    })
+    active.classList.add('active');
 }
 
+function toggleImages(dataClass){
 
-function removeDots() {
-  for (var i = 0; i < imageSlides.length; i++) {
-    circles[i].classList.remove('dot');
-  }
-}
+  for (let i = 0; i < allImages.length; i++)
 
-function imageLoop() {
-  var currentImage = imageSlides[counter];
-  var currentDot = circles[counter];
-  currentImage.classList.add('visible');
-  removeDots();
-  currentDot.classList.add('dot');
-  counter++;
-}
+  if (allImages[i].dataset.class === dataClass) {
 
-// pijltjes links en rechts
-function arrowClick(e) {
-  var target = e.target;
-  if (target == leftArrow) {
-    clearInterval(imageSlideshowInterval);
-    hideImages();
-    removeDots();
-    if (counter == 1) {
-      counter = (imageSlides.length - 1);
-      imageLoop();
-      imageSlideshowInterval = setInterval(slideshow, 10000);
+    if (allImages[i].classList.contains('visible')) {
     } else {
-      counter--;
-      counter--;
-      imageLoop();
-      imageSlideshowInterval = setInterval(slideshow, 10000);
+      allImages[i].classList.add('visible');
+      allImages[i].classList.remove('unvisible');
     }
-  }
-  else if (target == rightArrow) {
-    clearInterval(imageSlideshowInterval);
-    hideImages();
-    removeDots();
-    if (counter == imageSlides.length) {
-      counter = 0;
-      imageLoop();
-      imageSlideshowInterval = setInterval(slideshow, 10000);
-    } else {
-      imageLoop();
-      imageSlideshowInterval = setInterval(slideshow, 10000);
-    }
-  }
-}
 
-leftArrow.addEventListener('click', arrowClick);
-rightArrow.addEventListener('click', arrowClick);
-
-
-// Na zoveel secondes verplaatst hij automatisch
-function slideshow() {
-  if (counter < imageSlides.length) {
-    imageLoop();
   } else {
-    counter = 0;
-    hideImages();
-    imageLoop();
+
+    if (allImages[i].classList.contains('visible')) {
+      allImages[i].classList.add('unvisible');
+      allImages[i].classList.remove('visible');
+    }
+
   }
 }
 
-setTimeout(slideshow, 1000);
-var imageSlideshowInterval = setInterval(slideshow, 10000);
+for(let i = 0; i < listItems.length; i++){
+  listItems[i].addEventListener('click', function(){
+    toggleActiveClass(listItems[i]);
+    toggleImages(listItems[i].dataset.class);
+  });
+}
+
+
