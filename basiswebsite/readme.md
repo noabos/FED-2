@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. https://www.javascripttutorial.net/javascript-dom/javascript-queryselector
 2. -bron 2-
 3. -...-
 
