@@ -38,21 +38,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+De navigatie, de banner en de searchfield waren heel lastig. Hier ben ik ook nog niet helemaal klaar mee. Zo moet ik bij de navigatie de iconen nog onder elkaar zetten. Ook moet ik bij de banner de tekst nog zo aanpassen dat je kan dan zien wat er aan kan komen. Derest ging eigenlijk best goed en viel het me mee.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+Ik ben redelijk tevreden met hoe ver ik ben, tot nu toe ben ik bijna klaar met de mobiele versie. Zo moet ik de searchbar field nog doen, de footer, de navigatie iconen moeten nog onder & onderelkaar. En de detailpagina moet ik nog stylen. 
+<img src="images/voortgang.PNG" width="375px" alt="detail">
+<img src="images/voortgang.PNG" width="375px" alt="detail">
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Dewi.                | Daan.              | Inez.        | Noa.                         |Niels.     |
+| ---                  | ---                | ---          | ---                          |----       |
+| Als je het zelf beter| animatie triggeren?| en ik dit    | Moet ik nog: Navigatie       |           |
+| vindt mag je dingen  | Element beweegt    | nog een punt | Search bar, tweede pagina    |           |
+| Aanpassen?           | door scrollen?     | ...          | Voldoende variatie?  JS?     |           |
 
 ### Verslag van meeting
 
@@ -62,9 +63,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
-
 <img src="images/breakdownsheet.png" width="375px" alt="breakdownsheet">
-
 
 ## Intake (week 1)
 
