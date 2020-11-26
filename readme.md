@@ -1,12 +1,12 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Noa Bos
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. bron : https://www.javascripttutorial.net/javascript-dom/javascript-queryselector
 2. -bron 2-
 3. -...-
 
@@ -38,21 +38,34 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Over het algemeen ging het best goed. Wel vond ik deze dingen erg lastig: Navigatie, searchbar en de banner slider. Ik ben ook nog niet helemaal klaar met deze items. Zo moet ik bij de searchbalk, de searchbalk zelf nog toevoegen. Bij navigatie moeten de social media icons nog onderaan. En bij de banner slider moet de tekst nog grijs worden wanner hij niet geselecteerd is.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/v1.png" width="375px" alt="voortgang">
+<img src="images/v2.png" width="375px" alt="voortgang">
+<img src="images/v3.png" width="375px" alt="voortgang">
+<img src="images/v4.png" width="375px" alt="voortgang">
+<img src="images/v5.png" width="375px" alt="voortgang">
+
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Daan.
+Hoe trigger je een animatie als het element daarvoor in jou scherm verschijnt?
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Dewi.
+mag je dingen aanpassen als je dat zelf beter vindt? bv header fixed maken
+
+Noa.
+Voldoende variatie in content?  | Moet ik nog: Search bar, tweede pagina , Navigatie icons
+
+Inez.
+Hoe maak ik de header responsive als hij er compleet anders uitziet op desktop dan op mobiel?
+
+Niels.
+Hoe zorg je dat een element beweegt doordat jij scrolled?
+
 
 ### Verslag van meeting
 
@@ -62,23 +75,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/breakdownsheet.png" width="375px" alt="breakdownsheet">
 
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Blauwe piste 
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Surface
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** https://nana-asia.com
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/nana1.PNG" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/nana2.PNG" width="375px" alt="omschrijving van de pagina">
