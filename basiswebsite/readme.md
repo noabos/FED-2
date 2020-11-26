@@ -42,7 +42,12 @@ Over het algemeen ging het best goed. Wel vond ik deze dingen erg lastig: Naviga
 
 **Screenshot(s):**
 
-<img src="images/breakdownsheet.png" width="375px" alt="breakdownsheet">
+<img src="images/v1" width="375px" alt="voortgang">
+<img src="images/v2" width="375px" alt="voortgang">
+<img src="images/v3" width="375px" alt="voortgang">
+<img src="images/v4" width="375px" alt="voortgang">
+<img src="images/v5" width="375px" alt="voortgang">
+
 
 ### Agenda voor meeting
 
