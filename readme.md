@@ -7,7 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. bron : https://www.javascripttutorial.net/javascript-dom/javascript-queryselector
-2. -bron 2-
+2. Daan Zwarthoed heeft mij geholpen met de hover JS !
 3. -...-
 
 
@@ -30,7 +30,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+Vergeleken met vorige week heb ik nog niet heel veel kunnen doen. Ik heb besloten om aan de Responsive opdracht te werken. Bij de telefoon website moet ik alleen nog de puntje op de i zetten, op de desktop website is er nog veel werk te doen. Gelukkig is mijn navigatie responsive, nu de rest nog! 
+
+Daan.
+Hoeveel comments moet je ongeveer in je code hebben?
+
+Dewi.
+ik wil weten hoeveel animaties ik ongeveer moet maken
+
+Noa.
+Hoe maak ik die banner anders met hover de tekst in desktop en in mobiel pijtlje gebruiken?
+
+Inez.
+Hoe zorg je ervoor dat je website werkt op meerdere telefoons en landscape mode?
+
+Niels.
+Hoe zorg je dat een element beweegt doordat jij scrolled?
 
 
 
@@ -83,7 +99,7 @@ Hoe zorg je dat een element beweegt doordat jij scrolled?
 
 **Je startniveau:** Blauwe piste 
 
-**Je focus:** Surface
+**Je focus:** Responsive 
 
 **Je opdracht:** https://nana-asia.com
 
