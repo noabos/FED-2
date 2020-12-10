@@ -99,7 +99,7 @@ Hoe zorg je dat een element beweegt doordat jij scrolled?
 
 **Je startniveau:** Blauwe piste 
 
-**Je focus:** Responsive 
+**Je focus:** Surface plane
 
 **Je opdracht:** https://nana-asia.com
 
