@@ -27,6 +27,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 Deze week heb ik de puntjes op de i kunnen zetten, mijn navigatie balk is af en ik heb pijltjes kunnen maken van de blokjes. Helaas is het zetten van iets in de search balk nog niet gelukt... Iris help!
 
+### Agenda voor meeting
+
 Daan.
 Kan je mij feedback geven op mijn readme? En kan je een voorbeeld geven van een verslag over de screenreader?
 
@@ -50,6 +52,8 @@ Hoe maak je een goed hamburger menu? Hoe maak je je website responsive zonder al
 
 ### Stand van zaken
 Vergeleken met vorige week heb ik nog niet heel veel kunnen doen. Ik heb besloten om aan de Responsive opdracht te werken. Bij de telefoon website moet ik alleen nog de puntje op de i zetten, op de desktop website is er nog veel werk te doen. Gelukkig is mijn navigatie responsive, nu de rest nog! 
+
+### Agenda voor meeting
 
 Daan.
 Hoeveel comments moet je ongeveer in je code hebben?
