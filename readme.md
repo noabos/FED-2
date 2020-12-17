@@ -24,7 +24,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+Deze week heb ik de puntjes op de i kunnen zetten, mijn navigatie balk is af en ik heb pijltjes kunnen maken van de blokjes. Helaas is het zetten van iets in de search balk nog niet gelukt... Iris help!
+
+Daan.
+Kan je mij feedback geven op mijn readme? En kan je een voorbeeld geven van een verslag over de screenreader?
+
+Dewi.
+Ik wil weten hoezo er iets fout gaat met de marge in mijn carrousel.
+
+Noa.
+Hoe zet ik iets in mijn dropdown van mn searchbalk? En wanneer je surface laag doet, moet je scherm dan ook horizontaal responsive zijn? En hoeveel animaties moet je, bij de surface laag? 
+
+Inez.
+Hoe maak je een goed hamburger menu? Hoe maak je je website responsive zonder alles te breken?
+
+
+### Verslag van meeting
+
+-
 
 
 
@@ -48,6 +66,9 @@ Hoe zorg je ervoor dat je website werkt op meerdere telefoons en landscape mode?
 Niels.
 Hoe zorg je dat een element beweegt doordat jij scrolled?
 
+### Verslag van meeting
+
+Het ging redelijk goed, Janno raadde me aan om voor de surface laag te kiezen, ipv. de responsive laag.
 
 
 ## Voortgang 1 (week 3)
@@ -85,7 +106,7 @@ Hoe zorg je dat een element beweegt doordat jij scrolled?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Het ging heel goed! Iris vertelde me dat ik voorliep, blij mee!
 
 
 
