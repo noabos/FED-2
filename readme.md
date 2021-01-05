@@ -7,7 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. bron : https://www.javascripttutorial.net/javascript-dom/javascript-queryselector
-2. Daan Zwarthoed heeft mij geholpen met de hover JS !
+2. Daan Zwarthoed heeft mij geholpen met de hover JS! Die ik uiteindelijk niet heb gebruikt... 
 3. bron: https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 
 
