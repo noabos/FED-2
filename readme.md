@@ -47,7 +47,7 @@ Hoe maak je een goed hamburger menu? Hoe maak je je website responsive zonder al
 
 ### Verslag van meeting
 
-Ik heb aan Janno kunnen vragen of het horizontaal neerzetten van het scherm echt moest, want eigenlijk moest je dan responsive én surface doen. Gelukkig heeft Janno zich bedacht en was dit nodig. 
+Ik heb aan Janno kunnen vragen of het horizontaal neerzetten van het scherm echt moest, want eigenlijk moest je dan responsive én surface doen. Gelukkig heeft Janno zich bedacht en was dit niet meer nodig. 
 
 
 
