@@ -6,10 +6,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. bron : https://www.javascripttutorial.net/javascript-dom/javascript-queryselector
+1. Uitlegbron van queryselector : https://www.javascripttutorial.net/javascript-dom/javascript-queryselector
 2. Daan Zwarthoed heeft mij geholpen met de hover JS! Die ik uiteindelijk niet heb gebruikt... 
-3. bron: https://developer.mozilla.org/en-US/docs/Web/CSS/animation
-4. bron: https://codepen.io/shooft/pen/xxVmpEP
+3. Uitlegbron van de animaties: https://developer.mozilla.org/en-US/docs/Web/CSS/animation
+4. Inspiratiebron voor de animaties: https://codepen.io/shooft/pen/xxVmpEP
+5. Inspiratiebron van de foto's met filter: https://codepen.io/dudleystorey/pen/KGABc
+6. Inspiratiebron voor de slider: https://codepen.io/rokobuljan/pen/XXzqKQ
 
 
 
