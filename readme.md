@@ -9,6 +9,7 @@
 4. Inspiratiebron voor de animaties: https://codepen.io/shooft/pen/xxVmpEP
 5. Inspiratiebron van de foto's met filter: https://codepen.io/dudleystorey/pen/KGABc
 6. Inspiratiebron voor de slider: https://codepen.io/rokobuljan/pen/XXzqKQ
+7. JS inspiratiebron voor de slider: https://forum.freecodecamp.org/t/can-somebody-explain-to-me-this-javascript-code-please/243460
 7. En natuurlijk: nana-asia.com !
 
 
