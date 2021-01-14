@@ -1,8 +1,5 @@
 # Procesverslag
-**Auteur:** Noa Bos
-
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
+**Auteur:** Noa Bos | 500791864
 
 
 ## Bronnenlijst
@@ -12,6 +9,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 4. Inspiratiebron voor de animaties: https://codepen.io/shooft/pen/xxVmpEP
 5. Inspiratiebron van de foto's met filter: https://codepen.io/dudleystorey/pen/KGABc
 6. Inspiratiebron voor de slider: https://codepen.io/rokobuljan/pen/XXzqKQ
+7. En natuurlijk: nana-asia.com !
 
 
 
@@ -24,7 +22,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -screenshot(s) van je eindresultaat-
 
 ## Toegankelijkehid 
-Voor de toegankelijkheid ben ik de checklist van https://www.a11yproject.com/checklist/ nagegaan. 
+Voor de toegankelijkheid ben ik de checklist van https://www.a11yproject.com/checklist/ nagegaan. Hier scoorde mijn site heel goed. Daarna heb ik gekeken naar het filmpje. En toen ben ik verdergegaan met de test in 'reallife', dit door door mijn site heen te navigeren met een stem. De alts achter de foto's werken goed. De structuur van mijn site is logisch en de linkjes werken prima.
 
 ## Voortgang 3 (week 6)
 
