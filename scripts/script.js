@@ -1,5 +1,3 @@
-// Noa Bos | 201 | 500791864
-
 // NAVIGATIE HAMBURGER
 const navToggler = document.querySelector('.nav-toggler');
 const navMenu = document.querySelector('nav ul');
@@ -40,8 +38,6 @@ function toggleActiveClass(active) {
     active.classList.add('active');
 }
 
-//Classlist wordt gebruikt om iets uit de DOM te halen en de classlist te manipuleren
-
 function toggleImages(dataClass) {
 
     for (let i = 0; i < allImages.length; i++)
@@ -69,13 +65,12 @@ for (let i = 0; i < listItems.length; i++) {
     });
 }
 
-// SLIDER
+//SLIDER
 
 var slideIndex = 0;
 showSlides();
 
 function showSlides() {
-// selecteert alle elementen binnen de class slides
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
@@ -84,11 +79,10 @@ function showSlides() {
   }
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}
-//Zorgt ervoor dat de andere slides worden verstopt
   for (i = 0; i < dots.length; i++) {
     dots[i].className = dots[i].className.replace(" active", "");
   }
   slides[slideIndex-1].style.display = "block";
-//toont de dia met de huidige dia-index, trek er een af om de nummerindex 0 te maken
+
   setTimeout(showSlides, 3000);
 }
