@@ -23,12 +23,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -screenshot(s) van je eindresultaat-
 
-
+## Toegankelijkehid 
+Voor de toegankelijkheid ben ik de checklist van https://www.a11yproject.com/checklist/ nagegaan. 
 
 ## Voortgang 3 (week 6)
 
 ### Stand van zaken
-Deze week heb ik de puntjes op de i kunnen zetten, mijn navigatie balk is af en ik heb pijltjes kunnen maken van de blokjes. Helaas is het zetten van iets in de search balk nog niet gelukt... Iris help!
+Deze week heb ik de puntjes op de i kunnen zetten, mijn navigatie balk is af en ik heb pijltjes kunnen maken van de blokjes. Helaas is het zetten van iets in de search balk nog niet gelukt... Iris help! De volgende stap is het toevoegen van de animaties!
 
 ### Agenda voor meeting
 
