@@ -623,7 +623,6 @@ aside {
 
 .photo-list {
     display: grid;
-    grid-template-columns: 1fr;
     grid-template-rows: auto;
     grid-row: 1;
 }
@@ -631,11 +630,14 @@ aside {
 .visible {
     opacity: 1;
     transition: opacity 0.5s linear 0.5s;
+
 }
 
-.unvisible {
+.unvisible  {
     visibility: hidden;
-  height: 0em;
+    position: absolute;
+    padding: 10em;
+
 }
 
 .filter visible p :nth-of-type(1) {
@@ -646,11 +648,9 @@ p {
     color: #061B6A;
 }
 
-.filtervisible .filterunvisible h4 {
-    color: #FF9F9F;
-
+.shopwithus{
+   padding: 20em;
 }
-
 /****************/
 /* FOOTER*/
 /****************/
