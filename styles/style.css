@@ -61,12 +61,11 @@ h3 {
     letter-spacing: 0.05em;
     color: #fff;
     margin-top: 0.6em;
-    text-decoration: none;
     font-size: 2em;
     text-align: left;
     padding-left: 0.6em;
     width: 0.6em;
-    text-decoration: none;
+
 }
 
 /* is voor alle roze titels; deze moet roze zijn */
@@ -80,18 +79,16 @@ h2 {
     letter-spacing: 0.05em;
     color: #FF9F9F;
     margin-top: 0.6em;
-    text-decoration: none;
     font-size: 2em;
     text-align: left;
     padding-left: 0.6em;
     max-width: 70%;
-    text-decoration: none;
+
 }
 
 /* simpele titel voor het product */
 
 h6 {
-    text-decoration: none;
     letter-spacing: 0.09em;
     color: #fff;
     font-size: 0.9em;
@@ -112,7 +109,7 @@ h5 {
     position: relative;
     top: -2.5em;
     font-weight: 500;
-    text-decoration: none;
+
 }
 
 a {
@@ -635,8 +632,8 @@ aside {
 }
 
 .unvisible  {
-    visibility: hidden;
-    position: absolute;
+    display: none;
+    position: relative;
 }
 
 
