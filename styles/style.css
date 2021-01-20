@@ -287,11 +287,13 @@ header {
     }
 }
 
-
 nav ul.open {
     animation: 1s down-open;
 }
 
+/****************/
+/*ANIMATIE DROPDOWN MENU*/
+/****************/
 
 @keyframes down-open {
     0% {
@@ -302,7 +304,6 @@ nav ul.open {
         clip-path: inset(0);
     }
 }
-
     nav {
         min-height: 5em;
         padding: 0;
@@ -313,33 +314,6 @@ nav ul.open {
         left: -2%;
     }
 
-
-.icon {
-    width: 1.25em;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    flex-basis: 0;
-    margin: 19%;
-    position: absolute;
-    top: 15.6em;
-    position: fixed;
-}
-
-.icon ul li img {
-    transition: .5s;
-    display: block;
-}
-
-.icon li a {
-    position: fixed;
-    left: 6.25em;
-}
-
-.icon li {
-    padding: 1.25em;
-}
 
 
 /****************/
@@ -414,8 +388,6 @@ nav ul.open {
         position: relative;
         left: -2%;
     }
-
-
 
     .menu-btn {
         position: absolute;
@@ -621,7 +593,6 @@ aside {
         right: 1em;
     }
 }
-
 /****************/
 /* FOOD & DRINKS*/
 /****************/
@@ -663,7 +634,6 @@ aside {
 }
 
 .unvisible {
-    position: absolute;
     visibility: hidden;
 }
 
