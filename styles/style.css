@@ -625,19 +625,22 @@ aside {
     display: grid;
     grid-template-rows: auto;
     grid-row: 1;
+    position: relative;
 }
 
 .visible {
     opacity: 1;
     transition: opacity 0.5s linear 0.5s;
+    position: relative;
 }
 
 .unvisible  {
     visibility: hidden;
+    position: absolute;
 }
 
-.footer{
-    padding: 20em;
+footer{
+    position: relative;
 }
 
 .filter visible p :nth-of-type(1) {
