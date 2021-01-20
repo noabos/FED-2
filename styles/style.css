@@ -630,18 +630,15 @@ aside {
 .visible {
     opacity: 1;
     transition: opacity 0.5s linear 0.5s;
-
 }
 
 .unvisible  {
     visibility: hidden;
-    position: relative;
 }
 
 .footer{
     padding: 20em;
 }
-
 
 .filter visible p :nth-of-type(1) {
     color: #061B6A;
