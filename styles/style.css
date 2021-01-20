@@ -635,6 +635,7 @@ aside {
 
 .unvisible {
     visibility: hidden;
+  height: 0em;
 }
 
 .filter visible p :nth-of-type(1) {
