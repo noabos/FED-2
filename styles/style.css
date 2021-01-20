@@ -658,6 +658,11 @@ footer {
     bottom: 0em;
 }
 
+.footer{
+    position: relative;
+    bottom: 0em;
+}
+
 .wit {
     color: #fff;
     font-weight: 100;
