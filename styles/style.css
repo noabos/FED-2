@@ -631,7 +631,7 @@ aside {
 .visible {
     opacity: 1;
     transition: opacity 0.5s linear 0.5s;
-    position: relative;
+
 }
 
 .unvisible  {
@@ -639,9 +639,6 @@ aside {
     position: absolute;
 }
 
-footer{
-    position: relative;
-}
 
 .filter visible p :nth-of-type(1) {
     color: #061B6A;
@@ -651,9 +648,7 @@ p {
     color: #061B6A;
 }
 
-.shopwithus{
-   padding: 20em;
-}
+
 /****************/
 /* FOOTER*/
 /****************/
