@@ -661,6 +661,7 @@ footer {
 .footer{
     position: relative;
     bottom: 0em;
+    padding-bottom: 90em;
 }
 
 .wit {
