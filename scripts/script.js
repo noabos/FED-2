@@ -11,8 +11,6 @@ function togglerClick() {
 // als je klikt popt hij op
 navToggler.addEventListener('click', togglerClick); // Eventlisitener voor de toggler | Event die de functie aanroept dmv eventlistener, die de functie aanroept wanneer je op knop klikt
 
-
-
 // GALLERIJ
 
 var listItems = document.querySelectorAll('.filteroptie'); //Filteroptie is de optie waar de gebruiker tussen kan kiezen in ul,li
@@ -29,7 +27,7 @@ function toggleImages(dataClass) {
 
     for (let i = 0; i < allImages.length; i++)  // let is een var die je gebruikt voor een bepaalde functie, let is bepaald nummer wordt meteen weer vergeten, bij var is dat niet zo. Als ik var had gebruikt, had de filteroptie niet gewerkt
 
-        if (allImages[i].dataset.class === dataClass) {   // als ie zichtbaar is dan laat ie t zien en anders niet
+        if (allImages[i].dataset.class === dataClass) {   // als 'ie zichtbaar is dan laat 'ie t zien en anders niet
                 allImages[i].classList.add('visible'); // hij voegt de class visible toe
                 allImages[i].classList.remove('unvisible'); // hij verwijdert de class unvisible
 
