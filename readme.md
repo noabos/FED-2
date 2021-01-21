@@ -13,6 +13,7 @@
 8. Uitleg van Classlist: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
 9. Voor de searchbar: https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
 9. En natuurlijk: nana-asia.com !
+10. Daan Zwarthoed heeft me geholpen met doodlopende stukjes js eruit te halen
 
 ## Eindgesprek (week 8/9)
 Helaas had ik voor mijn eerste poging een herkansing, mijn eindresultaat was een 5. 
