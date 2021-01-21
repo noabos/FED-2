@@ -14,6 +14,17 @@
 9. Voor de searchbar: https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
 9. En natuurlijk: nana-asia.com !
 
+## Eindgesprek (week 8/9)
+Helaas had ik voor mijn eerste poging een herkansing, mijn eindresultaat was een 5. 
+
+Dit zijn de punten van feedback;
+- leg mij de JS uit, en herschrijf je code. Klopt nu niet en is erg omslachtig
+- w3c error in je CSS
+- 1 maal max width media query per breakpoint svp
+- kijk goed naar regel 65 in detail.html en richt je structuur anders in (semantisch?)
+- detailpagina footer op mobiel breekt
+
+Deze punten heb ik allemaal verbeterd. Op naar poging 2!
 
 
 ## Eindgesprek (week 7/8)
